@@ -1,6 +1,3 @@
-When was the image created? Round down to the nearest minute
-What is the image resolution? (ex: 800x600)
-What is the make of the camera that took the picture?
-What is the model of the camera that took the picture?
-What is the exposure time for the picture? (ex: 1/200)
-Where was the picture taken? Please use only positive numbers with 4 decimal places. (ex: 45.4000N, 75.6667W)
+What HTTP request header is used to denote what URI linked to the resource being requested?	
+What HTTP request header is used to identify the client software that made the HTTP request?
+What HTTP request header is used to identify the acceptable content types that can be returned?

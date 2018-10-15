@@ -1,0 +1,6 @@
+What is the CVE of the original POODLE attack?
+What version of VSFTPD contained the smiley face backdoor?
+What was the first 1.0.1 version of OpenSSL that was NOT vulnerable to heartbleed?
+What was the original RFC number that described Telnet?
+How large (in bytes) was the SQL Slammer worm?
+Samy is my...
